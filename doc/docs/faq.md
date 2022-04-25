@@ -35,6 +35,7 @@ If our mission to build the social primitives for Web3 resonates with you, pleas
 
 #### Would you like to form a strategic partnership with Noox?
 For business inquiry, you can communicate 1:1 with the core team by issuing a 1 on 1 ticket in our [Discord](http://discord.gg/noox) server.
+
 <br/>
 <br/>
 
@@ -85,6 +86,7 @@ You cannot create badges during beta. However, you’ll be able to create badges
 The following channels are where you can suggest badges if you want them listed on Noox:
   - #suggest-new-badges channel in [Discord](http://discord.gg/noox)
   - Badge Suggestion category on [Discourse](https://discuss.noox.world/)
+
 <br/>
 <br/>
 
@@ -108,7 +110,7 @@ An access token is no longer required once you've created a profile. Transferrin
 #### When will Noox be open to the public?
 
 Between the CBT and the public beta, there may be a short break of about 1~2 weeks.
-<br class="in" />
+
 <br/>
 <br/>
 
