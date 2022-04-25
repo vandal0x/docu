@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Create a Document
+# Products
 
 Documents are **groups of pages** connected through:
 
@@ -34,7 +34,7 @@ sidebar_label: 'Hi!'
 sidebar_position: 3
 ---
 
-# Hello
+# Products
 
 This is my **first Docusaurus document**!
 ```
