@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'DOCS',
+        title: 'Noox Docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/noox.png',
+          src: 'img/logo2.png',
         },
         items: [
           {
@@ -66,6 +66,12 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Devs',
+          },
+          {
+            type: 'doc',
+            docId: 'faq',
+            position: 'left',
+            label: 'FAQ',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
