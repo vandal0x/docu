@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: './static/img/favicon.ico',
   organizationName: 'vandal0x', // Usually your GitHub org/user name.
   projectName: 'docu', // Usually your repo name.
   // customFields: {
