@@ -15,9 +15,9 @@
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   learnSidebar: {
-    "Introduction": ['intro', 'Concepts/achievement', 'Concepts/protocol'],
+    "Introduction": ['intro', 'concepts/achievement', 'concepts/protocol', 'ecosystem/networks', 'ecosystem/products'],
   },
-  faqSidebar: ['Ecosystem/networks', 'Ecosystem/products', 'faq'],
+  faqSidebar: ['faqs/faq'],
 };
 
 module.exports = sidebars;

@@ -58,19 +58,19 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'faqs/faq',
             position: 'left',
             label: 'Guides',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'ecosystem/networks',
             position: 'left',
             label: 'Devs',
           },
           {
             type: 'doc',
-            docId: 'faq',
+            docId: 'faqs/faq',
             position: 'left',
             label: 'FAQ',
           },
