@@ -9,7 +9,7 @@ const config = {
   title: 'Noox Dox',
   tagline: 'Your all-in-one resources for Noox',
   url: 'https://ryujjam.xyz',
-  baseUrl: '/docs/intro',
+  baseUrl: '/docs/intro/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
