@@ -10,7 +10,7 @@ const config = {
   tagline: 'Your all-in-one resources for Noox',
   url: 'https://ryujjam.xyz',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'vandal0x', // Usually your GitHub org/user name.
