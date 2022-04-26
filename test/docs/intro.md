@@ -1,9 +1,8 @@
 ---
 sidebar_position: 1
-slug: /
 ---
 
-# Intro Real R
+# Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
