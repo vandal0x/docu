@@ -15,9 +15,9 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'vandal0x', // Usually your GitHub org/user name.
   projectName: 'docu', // Usually your repo name.
-  customFields: {
-    defaultDocsLandingPage: 'docs/intro',
-  },
+  // customFields: {
+  //   defaultDocsLandingPage: 'docs/intro',
+  // },
   presets: [
     [
       'classic',
